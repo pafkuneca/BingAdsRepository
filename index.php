@@ -4,4 +4,5 @@
   echo 'mnogo muskul bro';
   // jew
   // hei
+  // negri
 ?>
